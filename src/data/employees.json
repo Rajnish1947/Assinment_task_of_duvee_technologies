@@ -1,0 +1,20 @@
+[
+  {
+    "id": "EMP001",
+    "name": "Rajnish Kumar",
+    "email": "rajnish@gmail.com",
+    "role": "Frontend Dev",
+    "department": "IT",
+    "status": "Active",
+    "image": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "id": "EMP002",
+    "name": "Amit Sharma",
+    "email": "amit@gmail.com",
+    "role": "HR Manager",
+    "department": "HR",
+    "status": "Inactive",
+    "image": "https://i.pravatar.cc/150?img=2"
+  }
+]
