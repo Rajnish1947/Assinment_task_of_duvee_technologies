@@ -4,7 +4,7 @@ import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Dashboard from "./pages/Dashboard";
 import EmployeeList from "./pages/EmployeeList";
-import AddEmployee from "./pages/AddEmployee";
+// import AddEmployee from "./pages/AddEmployee";
 import EmployeeProfile from "./pages/EmployeeProfile";
 import ProtectedRoute from "./components/ProtectedRoute";
 import Navbar from "./components/Navbar";
@@ -86,14 +86,14 @@ function App() {
           }
         />
 
-        <Route
+        {/* <Route
           path="/add"
           element={
             <ProtectedRoute>
               <AddEmployee />
             </ProtectedRoute>
           }
-        />
+        /> */}
       </Routes>
     </BrowserRouter>
   );
